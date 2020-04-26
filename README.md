@@ -36,3 +36,4 @@ The preview can be viewed in the image editor as well as the data property panel
 - Progressive Quality Steps 1, 10, 100?
 - Better UI for variations
 - Make preview work when .blend file is not saved
+- Color palette picker/editor 
