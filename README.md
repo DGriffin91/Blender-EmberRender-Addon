@@ -22,3 +22,6 @@ The preview can be viewed in the image editor as well as the data property panel
  - Set animation in/out points
  - Run export Export Flame Animation operator
  - Currently, a set of .flame files will be created in the same directory as the .blend file is saved. (This will use a choose folder dialog box in the future)
+ 
+
+![UI_Example](demo/UI_Example.png)
