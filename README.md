@@ -2,8 +2,9 @@
 A Blender addon for rendering Flame fractals with EmberRender
 
 
-### Create a new flame with Shift-A -> Mesh -> Add Flame Object
-### Import an existing flame file via File -> Import -> Import Flame Data
+**Create a new flame with `Shift-A -> Mesh -> Add Flame Object`**
+
+**Import an existing flame file via `File -> Import -> Import Flame Data`**
 
 Imported flames wont always match exactly as the order of the variations apparently, actually matters. This should be fixed in the future.
 
