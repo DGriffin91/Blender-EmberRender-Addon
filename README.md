@@ -25,3 +25,13 @@ The preview can be viewed in the image editor as well as the data property panel
  
 
 ![UI_Example](demo/UI_Example.png)
+
+### TODO
+- Batch render from blender
+- File dialog and progress bar for export flame animation
+- Export single flame
+- Maintain variation order
+- Variation disable button
+- Progressive Quality Steps 1, 10, 100?
+- Better UI for variations
+- Make preview work when .blend file is not saved
