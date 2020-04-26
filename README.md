@@ -26,6 +26,7 @@ The preview can be viewed in the image editor as well as the data property panel
  
 
 ![UI_Example](demo/UI_Example.png)
+![UI_Example](demo/Animation1.gif)
 
 ### TODO
 - Batch render from blender
